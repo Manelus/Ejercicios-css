@@ -1,0 +1,18 @@
+.pinguino{
+    background-image: url(../IMG/pinguino-rey.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 200px;
+}
+.tabla{
+    background-color: yellow;
+}
+.encabezado{
+    background-color: white;
+}
+.celda1{
+    background-color: yellow;
+}
+.celda2{
+    background-color: yellow;
+}
